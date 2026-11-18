@@ -1,2 +1,2 @@
-modulos=principal,informes
+modulos=principal,alertas
 idioma=es
